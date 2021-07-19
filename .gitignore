@@ -1,0 +1,15 @@
+.DS_Store
+src/.DS_Store
+public/static/.DS_Store
+.env.development
+package-lock.json
+
+build/
+node_modules/
+ssl/
+
+.env
+debug.log
+
+local-web.letterchefs.com.csr
+local-web.letterchefs.com.key

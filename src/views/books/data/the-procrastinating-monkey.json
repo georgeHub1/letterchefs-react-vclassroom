@@ -1,0 +1,108 @@
+{
+	"title": "The Procrastinating Monkey",
+	"description": "The monkey has a house with broken roof that needs to be fixed. Instead of working hard to fix the roof, the monkey delays repairing the roof. One day, a big storm completely breaks down the roof.",
+	"numPages": 6,
+	"tags": "vietnamese",
+	"media": [
+		{
+			"type": "video",
+			"url": [
+				{
+					"mp4": "https://res.cloudinary.com/lienista/video/upload/v1603312844/the-legend-of-the-white-chrysanthemum/page-1-mp4.mp4",
+					"webm": "https://res.cloudinary.com/lienista/video/upload/v1603312847/the-legend-of-the-white-chrysanthemum/page-1-webm.webm"
+				}
+			]
+		},
+		{
+			"type": "video",
+			"url": [
+				{
+					"mp4": "https://res.cloudinary.com/lienista/video/upload/v1604790777/the-legend-of-the-white-chrysanthemum/page2_kbgxua.mp4",
+					"webm": "https://res.cloudinary.com/lienista/video/upload/v1604790777/the-legend-of-the-white-chrysanthemum/page2_gzfmew.webm"
+				}
+			]
+		},
+		{
+			"type": "video",
+			"url": [
+				{
+					"mp4": "https://res.cloudinary.com/lienista/video/upload/v1604791324/the-legend-of-the-white-chrysanthemum/page3_kvpm5s.mp4",
+					"webm": "https://res.cloudinary.com/lienista/video/upload/v1604791325/the-legend-of-the-white-chrysanthemum/page3_antt7k.webm"
+				}
+			]
+		},
+		{
+			"type": "video",
+			"url": [
+				{
+					"mp4": "https://res.cloudinary.com/lienista/video/upload/v1604792799/the-legend-of-the-white-chrysanthemum/page4_hbgxog.mp4",
+					"webm": "https://res.cloudinary.com/lienista/video/upload/v1604792801/the-legend-of-the-white-chrysanthemum/page4_jgzgpt.webm"
+				}
+			]
+		},
+		{
+			"type": "video",
+			"url": [
+				{
+					"mp4": "https://res.cloudinary.com/lienista/video/upload/v1604648527/the-legend-of-the-white-chrysanthemum/page5_nlcn1k.mp4",
+					"webm": "https://res.cloudinary.com/lienista/video/upload/v1604648541/the-legend-of-the-white-chrysanthemum/page5_jquw4r.webm"
+				}
+			]
+		},
+		{
+			"type": "image",
+			"url": [
+				{
+					"img": "https://res.cloudinary.com/lienista/image/upload/v1604648544/the-legend-of-the-white-chrysanthemum/page6_kyazml.jpg"
+				}
+			]
+		},
+		{
+			"type": "video",
+			"url": [
+				{
+					"mp4": "https://res.cloudinary.com/lienista/video/upload/v1604648526/the-legend-of-the-white-chrysanthemum/page7_pexzhh.mp4",
+					"webm": "https://res.cloudinary.com/lienista/video/upload/v1604648542/the-legend-of-the-white-chrysanthemum/page7_mcpqmo.webm"
+				}
+			]
+		},
+		{
+			"type": "video",
+			"url": [
+				{
+					"mp4": "https://res.cloudinary.com/lienista/video/upload/v1604717919/the-legend-of-the-white-chrysanthemum/page8_s5ygpc.mp4",
+					"webm": "https://res.cloudinary.com/lienista/video/upload/v1604717919/the-legend-of-the-white-chrysanthemum/page8_o5gyqx.webm"
+				}
+			]
+		},
+		{
+			"type": "video",
+			"url": [
+				{
+					"mp4": "https://res.cloudinary.com/lienista/video/upload/v1604720077/the-legend-of-the-white-chrysanthemum/page9_fcdzzm.mp4",
+					"webm": "https://res.cloudinary.com/lienista/video/upload/v1604720077/the-legend-of-the-white-chrysanthemum/page9_vxnaxq.webm"
+				}
+			]
+		},
+		{
+			"type": "video",
+			"url": [
+				{
+					"mp4": "https://res.cloudinary.com/lienista/video/upload/v1604720077/the-legend-of-the-white-chrysanthemum/page10_gckk9h.mp4",
+					"webm": "https://res.cloudinary.com/lienista/video/upload/v1604720078/the-legend-of-the-white-chrysanthemum/page10_pkcjth.webm"
+				}
+			]
+		}
+	],
+	"pageContent": {
+		"en": [],
+		"vn": [
+			"Mái nhà của khỉ con bị hỏng. Cứ hôm nào trời mưa là Khỉ lại phải mang bao nhiêu chậu ra hứng nước mưa. Đẻ thoats khỏi tình trạng này, Khỉ con quyết định sửa lại mái nhà.",
+			"Buổi sáng, Khỉ con mở cửa sổ ra, thấy ông mặt trời rỡ treo trên bầu trời xanh thẳm, một con gió nhẹ thổi đến khiến cậu vô cùng dễ chịu. Khỉ con nghĩ bụng, thời tiết hôm nay đẹp thế này, phải ra ngoài chơi cho sướng, mai hãy sửa nhà.",
+			"Hôm sau, bầu trời u âm, lại có gió to, Khỉ con tự an ủi: Trời lạnh thế này, thôi ở trong nhà cho ấm, mai sửa nhà cũng được.",
+			"Ngày thứ ba, thứ tư...Khỉ con lười biếng vẫn chưa sửa được mái nhà. Đêm hôm đó, sấm chớp đột nhiên nổi lên, không lâu sau thì trời mưa như trút nước.",
+			"Khỉ con vội vàng đi tìm chậu đẻ hứng nước. Nhưng vừa tìm được chậu thì con gió to đã tốc cả mái nhà của cậu lên. Thế là Khỉ con phải dầm mưa suốt cả đêm.",
+			"Rút ra được học bài học, Khỉ con từ đó không dám lười biếng nữa. Trời vừa sáng, cậu đã vội vàng đi tìm nguyên vật liệu để sửa mái nhà. Bây giờ, Khỉ con đã hiểu ra một đạo lí, đó là: Những người chăm chỉ là những người hạnh phúc nhất!"
+		]
+	}
+}

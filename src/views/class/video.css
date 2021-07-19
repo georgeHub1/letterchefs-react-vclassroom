@@ -1,0 +1,19 @@
+.video-view {
+	background-color: transparent;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+}
+
+.video-view > div {
+	margin-bottom: -4px;
+	position: initial !important;
+}
+
+.video-view video {
+	position: initial !important;
+}
+
+.video-placeholder > div {
+	background-color: transparent !important;
+}

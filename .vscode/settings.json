@@ -1,0 +1,17 @@
+{
+	"debug.javascript.codelens.npmScripts": "never",
+	"editor.renderControlCharacters": true,
+	"editor.tabSize": 2,
+	"window.title": "${activeEditorLong}${separator}${rootName}",
+	"settingsSync.ignoredExtensions": [],
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"liveServer.settings.port": 8080,
+	"liveServer.settings.host": "local-web.letterchefs.com",
+	"liveServer.settings.https": {
+		"enable": true, //set it true to enable the feature.
+		"cert": "~/Documents/code/letterchefs-frontend/ssl/server.crt", //full path
+		"key": "~/Documents/code/letterchefs-frontend/ssl/server.key", //full path
+		"passphrase": "12345"
+	}
+}
